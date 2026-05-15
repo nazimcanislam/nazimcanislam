@@ -32,6 +32,7 @@ Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psych
 | Project | Description |
 |---|---|
 | [shrinkify](https://github.com/nazimcanislam/shrinkify) | Video compression & media deduplication desktop tool |
+| [gphotos-fixer](https://github.com/nazimcanislam/gphotos-fixer) | Google Photos Takeout metadata fixer |
 | [nazimcanislam.dev](https://github.com/nazimcanislam/nazimcanislam.dev) | Personal portfolio site |
 | [md-write](https://github.com/nazimcanislam/md-write) | Modern, minimal Markdown note-taking app |
 | [credit-card-validator](https://github.com/nazimcanislam/credit-card-validator) | Card number validation via Luhn algorithm |
