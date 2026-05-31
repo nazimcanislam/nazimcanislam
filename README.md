@@ -8,8 +8,7 @@ Software developer from Istanbul. I see code as transforming ideas into working 
 
 ### About
 
-23 y/o · Istanbul, Turkey · Frontend & Android developer
-Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psychology nerd
+23 y/o · Istanbul, Turkey · Frontend & Android developer · Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psychology nerd
 
 ---
 
@@ -41,5 +40,5 @@ Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psych
 
 ### Find me
 
-🌐 [nazimcanislam-dev.vercel.app](https://nazimcanislam-dev.vercel.app)
-💼 [linkedin.com/in/nazimcanislam](https://linkedin.com/in/nazimcanislam)
+- 🌐 [nazimcanislam-dev.vercel.app](https://nazimcanislam-dev.vercel.app)
+- 💼 [linkedin.com/in/nazimcanislam](https://linkedin.com/in/nazimcanislam)
