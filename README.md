@@ -8,7 +8,7 @@ Software developer from Istanbul. I see code as transforming ideas into working 
 
 ### About
 
-23 y/o · Istanbul, Turkey · Frontend & Android developer · Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psychology nerd
+24 y/o · Istanbul, Turkey · Frontend developer · Master rank in League of Legends (Zed main) · Anime enthusiast · Jungian psychology nerd
 
 ---
 
